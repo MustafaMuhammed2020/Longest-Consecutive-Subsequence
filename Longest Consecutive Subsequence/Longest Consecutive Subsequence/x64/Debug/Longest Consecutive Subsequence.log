@@ -1,0 +1,5 @@
+﻿  main.c
+E:\sprints_tasks\sprint 2\Longest Consecutive Subsequence\Longest Consecutive Subsequence\main.c(61,9): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint8_t *'
+E:\sprints_tasks\sprint 2\Longest Consecutive Subsequence\Longest Consecutive Subsequence\main.c(61,9): message : consider using '%hhd' in the format string
+  LINK : E:\sprints_tasks\sprint 2\Longest Consecutive Subsequence\Longest Consecutive Subsequence\x64\Debug\Longest Consecutive Subsequence.exe not found or not built by the last incremental link; performing full link
+  Longest Consecutive Subsequence.vcxproj -> E:\sprints_tasks\sprint 2\Longest Consecutive Subsequence\Longest Consecutive Subsequence\x64\Debug\Longest Consecutive Subsequence.exe
